@@ -6,10 +6,10 @@
 name: FUTMINNA DEVELOPER CIRCLE
 
 # Short bio or description (displayed in the header)
-description: FUTMINNA DEVELOPER CIRLCE [FDC] is a student developer community based in Federal University of Technology, Minna, targeted towards students (primarily <b>FUT MInna Students<b> and other interested persons with and outside the school environ. FDC envision to become a world-class developer’s hub recognized for its excellence in building creative and innovative problems solvers with entrepreneurship skills through meetups, bi-weekly workshops, study jam, codelab sessions etc. FDC aims to give students the opportunity to not only learn development skills but also apply the skills to live problems by developing solutions and showcasing their work to the community and the world at large.
+description: FUTMINNA DEVELOPER CIRLCE [FDC] is a student developer community based in Federal University of Technology, Minna.
 
 # URL of your avatar or profile pic (you could use your GitHub profile pic)
-avatar: https://raw.githubusercontent.com/cgurusm/fdclogo/logo.png
+avatar: https://github.com/futminna-dev-circle/futminna-dev-circle.github.io/tree/master/images/logo.jpeg
 
 #
 # Flags below are optional
@@ -21,7 +21,7 @@ footer-links:
   email:
   facebook: futmxdevc
   flickr:
-  github: barryclark/jekyll-now
+  github: futminna-dev-circle/futminna-dev-circle.github.io
   instagram: futmxdevc
   linkedin:
   pinterest:
