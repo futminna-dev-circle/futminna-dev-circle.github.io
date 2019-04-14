@@ -3,13 +3,14 @@
 #
 
 # Name of your site (displayed in the header)
-name: Your Name
+name: FUTMINNA DEVELOPER CIRCLE
 
 # Short bio or description (displayed in the header)
-description: Web Developer from Somewhere
+description: FUTMINNA DEVELOPER CIRLCE [FDC] is a student developer community based in Federal University of Technology, Minna, targeted towards students (primarily <b>FUT MInna Students<b> and other interested persons with and outside the school environ. FDC envision to become a world-class developer’s hub recognized for its excellence in building creative and innovative problems solvers with entrepreneurship skills through meetups, bi-weekly workshops, study jam, codelab sessions etc.
+FDC aims to give students the opportunity to not only learn development skills but also apply the skills to live problems by developing solutions and showcasing their work to the community and the world at large.
 
 # URL of your avatar or profile pic (you could use your GitHub profile pic)
-avatar: https://raw.githubusercontent.com/barryclark/jekyll-now/master/images/jekyll-logo.png
+avatar: https://raw.githubusercontent.com/cgurusm/fdclogo/logo.png
 
 #
 # Flags below are optional
@@ -19,14 +20,14 @@ avatar: https://raw.githubusercontent.com/barryclark/jekyll-now/master/images/je
 footer-links:
   dribbble:
   email:
-  facebook:
+  facebook: futmxdevc
   flickr:
   github: barryclark/jekyll-now
-  instagram:
+  instagram: futmxdevc
   linkedin:
   pinterest:
   rss: # just type anything here for a working RSS icon
-  twitter: jekyllrb
+  twitter: futmxdevc
   stackoverflow: # your stackoverflow profile, e.g. "users/50476/bart-kiers"
   youtube: # channel/<your_long_string> or user/<user-name>
   googleplus: # anything in your profile username that comes after plus.google.com/
@@ -41,13 +42,13 @@ google_analytics:
 
 # Your website URL (e.g. http://barryclark.github.io or http://www.barryclark.co)
 # Used for Sitemap.xml and your RSS feed
-url:
+url: https://github.com/futminna-dev-circle/futminna-dev-circle.github.io
 
 # If you're hosting your site at a Project repository on GitHub pages
 # (http://yourusername.github.io/repository-name)
 # and NOT your User repository (http://yourusername.github.io)
 # then add in the baseurl here, like this: "/repository-name"
-baseurl: ""
+baseurl: "futminna-dev-circle.github.io"
 
 #
 # !! You don't need to change any of the configuration flags below !!
