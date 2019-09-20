@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Speakers on FUT Dev Circle</title>
+    <link>https://futminna-dev-circle.github.io/speakers/</link>
+    <description>Recent content in Speakers on FUT Dev Circle</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    
+	<atom:link href="https://futminna-dev-circle.github.io/speakers/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title></title>
+      <link>https://futminna-dev-circle.github.io/speakers/abdulqahar/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://futminna-dev-circle.github.io/speakers/abdulqahar/</guid>
+      <description>Chief Product Officer @paritieHub.
+Abdulqahar will be speaking on &amp;ldquo;Becoming a UI/UX Designer&amp;ldquo;</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://futminna-dev-circle.github.io/speakers/alvin/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://futminna-dev-circle.github.io/speakers/alvin/</guid>
+      <description>Alvin is a UI/UX 2D/3D motion designer. He will be speaking on &amp;ldquo;Emphatic Driven Design&amp;ldquo;</description>
+    </item>
+    
+  </channel>
+</rss>

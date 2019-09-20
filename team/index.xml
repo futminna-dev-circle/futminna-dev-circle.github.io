@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Team on FUT Dev Circle</title>
+    <link>https://futminna-dev-circle.github.io/team/</link>
+    <description>Recent content in Team on FUT Dev Circle</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    
+	<atom:link href="https://futminna-dev-circle.github.io/team/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Aliyu Muhammad</title>
+      <link>https://futminna-dev-circle.github.io/team/admin/aliyu_muhammad/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://futminna-dev-circle.github.io/team/admin/aliyu_muhammad/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Bright Emeka</title>
+      <link>https://futminna-dev-circle.github.io/team/admin/bright_emeka/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://futminna-dev-circle.github.io/team/admin/bright_emeka/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Domnan Diretnan</title>
+      <link>https://futminna-dev-circle.github.io/team/admin/diretnan_domnan/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://futminna-dev-circle.github.io/team/admin/diretnan_domnan/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Issah Sa&#39;adat</title>
+      <link>https://futminna-dev-circle.github.io/team/admin/isah_saadat/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://futminna-dev-circle.github.io/team/admin/isah_saadat/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Manasseh Mmadu</title>
+      <link>https://futminna-dev-circle.github.io/team/admin/manasseh_mmadu/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://futminna-dev-circle.github.io/team/admin/manasseh_mmadu/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Raji Abdulgafar</title>
+      <link>https://futminna-dev-circle.github.io/team/admin/raji_abdulgafar/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://futminna-dev-circle.github.io/team/admin/raji_abdulgafar/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Wisdom Praise</title>
+      <link>https://futminna-dev-circle.github.io/team/admin/wisdom_praise/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://futminna-dev-circle.github.io/team/admin/wisdom_praise/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

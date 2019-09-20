@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Schedule on FUT Dev Circle</title>
+    <link>https://futminna-dev-circle.github.io/schedule/</link>
+    <description>Recent content in Schedule on FUT Dev Circle</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    
+	<atom:link href="https://futminna-dev-circle.github.io/schedule/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+  </channel>
+</rss>
